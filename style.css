@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Century Gothic;
+}
+
+.main-footer
+{
+  font-family: Century Gothic;
+  padding: 10px 0;
+  background: #252525;
+  color: white;
+  font-size: 10px;
+}
